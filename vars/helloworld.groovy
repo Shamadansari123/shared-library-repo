@@ -1,1 +1,3 @@
-def call()
+def call(name){
+  echo 'Hello ${name},congrates.....!!'
+}
